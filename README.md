@@ -1,9 +1,9 @@
 # Emotion-Recognition
 
-#This project aims to develop an emotion recognition system that accurately identifies human emotions from facial expressions using deep learning techniques.
+This project aims to develop an emotion recognition system that accurately identifies human emotions from facial expressions using deep learning techniques.
 
 
-#Features
+#Features:
 * Deep Learning Model: Implemented a convolutional neural network (CNN) to recognize emotions from facial images.
 * Dataset: Utilized the FER-2013 dataset, containing 35,000+ labeled images of facial expressions across seven emotion categories.
 * Preprocessing: Performed image preprocessing including resizing, normalization, and data augmentation to enhance model robustness.
